@@ -10,4 +10,4 @@ Web design, visual identity and development.
 
 ## Live demo
 
-View the website here : ![.space design](https://genevievemasioni.github.io/space/)
+View the website here : ![space design](https://genevievemasioni.github.io/space/)
